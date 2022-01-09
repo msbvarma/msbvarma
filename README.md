@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Bahubalendruni M S B Varma</h1>
 <h3 align="center">A passionate self-taught Software Engineer from India</h3>
 
