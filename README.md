@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bahubalendruni M S B Varma</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **DeepLearning,Machine Learning, Java Microservices**
+- 🔭 I’m currently working on Building Software applications using **Java and Java Microservices**
+- 🔭 I'm exploring **DeepLearning and Machine Learning
 
 - 🌱 I’m currently learning **DeepLearning, MachineLearning and a lot**
 
